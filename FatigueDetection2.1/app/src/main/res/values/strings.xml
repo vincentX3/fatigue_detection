@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FatigueDetection</string>
+    <string name="title_activity_login">Login</string>
+    <string name="app_title">Fatigue\nDetection</string>
+    <string name="main_slogan">Pull\nYourself\nTogether\n!!!</string>
+    <string name="wake">Well done\nYou are\nENERGETIC\n!!!</string>
+    <string name="fatigue">!\nBrace\nYourself\nUp</string>
+</resources>

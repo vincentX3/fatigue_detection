@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#44ffff</color>
+    <color name="colorPrimaryDark">#80c9ff</color>
+    <color name="colorAccent">#f48fb1</color>
+    <color name="alternativeGrey">#6c6c6c</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="livepink">#ffc0eb</color>
+    <color name="calmgreen">#00d6c4</color>
+    <color name="zerzeroblue">#92e4f9</color>
+    <color name="white">#fff</color>
+</resources>
